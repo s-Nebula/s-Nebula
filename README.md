@@ -49,6 +49,7 @@ I'm currently building my own information security company. **Vesta**, a parenta
 | [**Vesta Tutor**](https://github.com/s-Nebula/vesta-tutor) | Parental-control app for guardians: location, geofences, app and website filtering, alerts | Flutter · Firebase |
 | [**Vesta Tracker**](https://github.com/s-Nebula/vesta-tracker) | Child-device agent: on-device DNS filtering (local VPN), app blocking, consent-based monitoring | Flutter · Kotlin · Android |
 | [**Vesta API**](https://github.com/s-Nebula/vesta-api) | Backend with hardened Firestore security rules, push dispatcher and account deletion | Node.js · Firebase |
+| [**Vesta Web**](https://github.com/s-Nebula/vesta-web) | Official website with a CI pipeline that builds and publishes only the static output | Next.js · TypeScript · GitHub Actions |
 | [**BTC RPS Arena**](https://github.com/s-Nebula/btc-rps-arena) | Real-time multiplayer game prototype with a ledger built for concurrency safety | TypeScript · Socket.IO · PostgreSQL |
 
 ### Contact
@@ -92,6 +93,7 @@ Estoy construyendo mi propia empresa de seguridad informática. **Vesta**, una p
 | [**Vesta Tutor**](https://github.com/s-Nebula/vesta-tutor) | App de control parental para tutores: ubicación, geocercas, filtro de apps y webs, avisos | Flutter · Firebase |
 | [**Vesta Tracker**](https://github.com/s-Nebula/vesta-tracker) | Agente del dispositivo del menor: filtro DNS local (VPN), bloqueo de apps, supervisión con consentimiento | Flutter · Kotlin · Android |
 | [**Vesta API**](https://github.com/s-Nebula/vesta-api) | Backend con reglas de seguridad de Firestore reforzadas, envío de avisos y eliminación de cuentas | Node.js · Firebase |
+| [**Vesta Web**](https://github.com/s-Nebula/vesta-web) | Sitio oficial con un pipeline de CI que compila y publica solo el resultado estático | Next.js · TypeScript · GitHub Actions |
 | [**BTC RPS Arena**](https://github.com/s-Nebula/btc-rps-arena) | Prototipo de juego multijugador en tiempo real con un libro contable seguro ante concurrencia | TypeScript · Socket.IO · PostgreSQL |
 
 ### Contacto

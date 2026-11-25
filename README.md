@@ -46,7 +46,7 @@ I'm currently building my own information security company. **Vesta**, a parenta
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Financial Security**](https://financial.vestasecurity.date) | Loan and collections management: field collectors work offline on Android, owners see portfolio, delinquency and profit on Windows; row-level security per business. **v1.2.17**: overdue loans keep accruing interest, amounts shown in thousands, apps update themselves | Flutter · Node.js · Fastify · PostgreSQL |
+| [**Financial Security**](https://financial.vestasecurity.date) | Loan and collections management: field collectors work offline on Android, owners see portfolio, delinquency and profit on Windows; row-level security per business. **v1.2.18**: owner capital base that every loan draws from, collector salaries, guided first-run tutorial, in-app support; overdue loans keep accruing interest and apps update themselves | Flutter · Node.js · Fastify · PostgreSQL |
 | [**Vesta Tutor**](https://github.com/s-Nebula/vesta-tutor) | Parental-control app for guardians: location, geofences, app and website filtering, alerts | Flutter · Firebase |
 | [**Vesta Tracker**](https://github.com/s-Nebula/vesta-tracker) | Child-device agent: on-device DNS filtering (local VPN), app blocking, consent-based monitoring | Flutter · Kotlin · Android |
 | [**Vesta API**](https://github.com/s-Nebula/vesta-api) | Backend with hardened Firestore security rules, push dispatcher and account deletion | Node.js · Firebase |
@@ -91,7 +91,7 @@ Estoy construyendo mi propia empresa de seguridad informática. **Vesta**, una p
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [**Financial Security**](https://financial.vestasecurity.date) | Gestión de créditos y cobranza: el cobrador trabaja sin señal en Android y el dueño ve cartera, mora y utilidad en Windows; seguridad a nivel de fila por negocio. **v1.2.17**: los créditos vencidos siguen generando interés, valores en miles y las apps se actualizan solas | Flutter · Node.js · Fastify · PostgreSQL |
+| [**Financial Security**](https://financial.vestasecurity.date) | Gestión de créditos y cobranza: el cobrador trabaja sin señal en Android y el dueño ve cartera, mora y utilidad en Windows; seguridad a nivel de fila por negocio. **v1.2.18**: base de capital del dueño de la que sale cada préstamo, sueldos de cobradores, tutorial guiado al iniciar y soporte en la app; los vencidos siguen generando interés y las apps se actualizan solas | Flutter · Node.js · Fastify · PostgreSQL |
 | [**Vesta Tutor**](https://github.com/s-Nebula/vesta-tutor) | App de control parental para tutores: ubicación, geocercas, filtro de apps y webs, avisos | Flutter · Firebase |
 | [**Vesta Tracker**](https://github.com/s-Nebula/vesta-tracker) | Agente del dispositivo del menor: filtro DNS local (VPN), bloqueo de apps, supervisión con consentimiento | Flutter · Kotlin · Android |
 | [**Vesta API**](https://github.com/s-Nebula/vesta-api) | Backend con reglas de seguridad de Firestore reforzadas, envío de avisos y eliminación de cuentas | Node.js · Firebase |
